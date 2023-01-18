@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "concurrently": "^7.6.0"
-  }
+  },
   "start": "next start -p $PORT"
 
 }
