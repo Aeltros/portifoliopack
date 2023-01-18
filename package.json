@@ -4,8 +4,6 @@
   "private": true,
 <<<<<<< HEAD
 
-
-
   "engines": {
     "node": "16.16.0"
   },
@@ -21,7 +19,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
-    "start": "next start"
+    
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "next": "10.2.3",
@@ -34,4 +33,5 @@
   "devDependencies": {
     "concurrently": "^7.6.0"
   }
+
 }
