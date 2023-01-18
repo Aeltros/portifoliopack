@@ -2,12 +2,22 @@
   "name": "portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
 
 
 
   "engines": {
     "node": "16.16.0"
   },
+=======
+  
+  
+  "engines": {
+    "node": "v16.16.0"
+  },
+  
+  
+>>>>>>> 6ea0b5874c468ee47a43863ef56e1aab3272bc25
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",

@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "React, Node.js, Express & MongoDB ",
+    title: 'E-commerce',
+    description: "React, Node.js, Express & MongoDB,Faker API ",
       image: '/images/ecom1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
       source: 'https://github.com/Aeltros/Amazon2',
@@ -13,22 +13,22 @@ export const projects = [
     description:"e-commerce",
     image: '/images/amzn4.png',
     
-    tags: ['React', 'JavaScript'],
+    tags:  ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/Aeltros/Amazon2',
     visit: 'https://amazoneclone-app.herokuapp.com/',
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'Scheduler mini,',
+    description: "Appointment setter with a notification and role approval.",
       image: '/images/3.png',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
+      tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://github.com/Aeltros/scheduler/tree/deploy',
     visit: 'https://google.com',
     id: 2,
   },
   {
-    title: 'Unichat',
+    title: 'uberclone with REACT native',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
     image: '/images/ecom3.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
@@ -46,8 +46,8 @@ export const TimeLineData = [
 ];
 
 const data = [
-  { number: 20, text: 'Open Source Projects'},
-  { number: 1000, text: 'Students', },
-  { number: 1900, text: 'Github Followers', },
-  { number: 5000, text: 'Github Stars', }
+  { number: 10, text: 'Open Source Projects'},
+  { number: 10, text: 'Students', },
+  { number: 10, text: 'Github Followers', },
+  { number: 1, text: 'Github Stars', }
 ];
