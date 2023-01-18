@@ -12,12 +12,12 @@ const Hero = () => (
 
 
 
-        Hello <br/>
+        Dev<br/>
         
-        My Portifolio Page <br/>
+        Portifolio Page <br/>
       </SectionTitle>
       <SectionText>
-        Lets Build the Web Togethor
+        One reusable Component at a time
       </SectionText>
       <Button onclick={()=>Window.location='aeltros@gmail.com'}>Learn More</Button>
     </LeftSection>
