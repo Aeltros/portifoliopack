@@ -2,12 +2,12 @@
   "name": "portfolio_nextjs",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
+
 
   "engines": {
     "node": "16.16.0"
   },
-=======
+
   
   
   "engines": {
