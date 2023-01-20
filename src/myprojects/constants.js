@@ -28,14 +28,15 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'uberclone with REACT native coming soon',
-    description: " React Native",
-    image: '/images/ecom3.png',
+    title: 'scheduler mini',
+    description: " MERN",
+    image: '/images/schedulerhome.png',
     tags: ['Reactnative', 'uberclone', 'Firebase'],
     source: 'https://github.com/Aeltros/uberclone',
     visit: 'https://github.com/Aeltros/uberclone',
     id: 3,
   },
+  
 ];
 
 export const TimeLineData = [
