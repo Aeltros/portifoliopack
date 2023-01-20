@@ -15,7 +15,6 @@
   },
   
   
->>>>>>> 6ea0b5874c468ee47a43863ef56e1aab3272bc25
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
